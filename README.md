@@ -2,7 +2,9 @@
 Python換歲匯率
 
 設計概念
+
 包含基底類別（System）—包含的變數及變數功能
+
 #匯率資料（_Currency = []）
 #我的匯率（MyCurrency = 'NTD'）
 #顯示的匯率（MyShowCurrency = ['USD', 'HKD', 'MYR', 'CNY']）
