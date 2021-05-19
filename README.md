@@ -1,5 +1,5 @@
 # PythonExchangeRate
-Python換歲匯率
+Python換算匯率
 
 設計概念
 
