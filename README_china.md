@@ -10,7 +10,7 @@
 
 OOP設計模式，製作匯率換算，可使設定匯率，設定換匯幣別，更新匯率資料，顯示歷史患會記錄
 
-<img src="file:///C:/Users/55614/AppData/Roaming/marktext/images/4f148c8ba251c2b5cc6d47f527dbd66bf27730ca.jpg" title="" alt="img1.jpg" data-align="center">
+<img title="" src="https://s2.loli.net/2022/01/29/1QpYVF7WqMvR23k.jpg" alt="img1.jpg" data-align="center">
 
 ## Getting Started
 
@@ -30,31 +30,31 @@ OOP設計模式，製作匯率換算，可使設定匯率，設定換匯幣別�
 
 執行main.py進入匯率換算選單，輸入 1~6即可使用各項功能
 
-<img src="file:///C:/Users/55614/OneDrive/桌面/img1.jpg" title="" alt="Screenshot 2022-01-29 161245.jpg" data-align="center">
+<img title="" src="https://s2.loli.net/2022/01/29/1QpYVF7WqMvR23k.jpg" alt="Screenshot 2022-01-29 161245.jpg" data-align="center">
 
 輸入1，開始換匯
 
-<img src="file:///C:/Users/55614/AppData/Roaming/marktext/images/6c13a2158e6591181cd282e534c01114c41d19db.jpg" title="" alt="img2.jpg" data-align="center">
+<img title="" src="https://s2.loli.net/2022/01/29/AjnkGwmQvFHeIhN.jpg" alt="img2.jpg" data-align="center">
 
 輸入2，設定本身的換匯幣別
 
-<img src="file:///C:/Users/55614/AppData/Roaming/marktext/images/62929890f4ea58a37a6e18c1174e89429038b4e5.jpg" title="" alt="img3.jpg" data-align="center">
+<img title="" src="https://s2.loli.net/2022/01/29/4wzsFBgUkuiXNly.jpg" alt="img3.jpg" data-align="center">
 
 輸入3，設定顯示換匯幣別
 
 輸入4，刪除顯示換匯幣別
 
-<img src="file:///C:/Users/55614/AppData/Roaming/marktext/images/0c3549b9e7e4b2564d2c18865fa84b47789c9faf.jpg" title="" alt="img4.jpg" data-align="center">
+<img title="" src="https://s2.loli.net/2022/01/29/b3N2Bfa1Wj7vIm9.jpg" alt="img4.jpg" data-align="center">
 
 輸入5，更新匯率
 
-<img src="file:///C:/Users/55614/AppData/Roaming/marktext/images/2eeb6acacfef83a9830fedabf42c206f735f3aa3.jpg" title="" alt="img6.jpg" data-align="center">
+<img title="" src="https://s2.loli.net/2022/01/29/yd7TnR2Ys8bHmBi.jpg" alt="img6.jpg" data-align="center">
 
 輸入6，顯示換匯歷史紀錄
 
 
 
-<img src="file:///C:/Users/55614/AppData/Roaming/marktext/images/c250e881d559ab8d3c0a416a5a409697f984a346.jpg" title="" alt="img5.jpg" data-align="center">
+<img title="" src="https://s2.loli.net/2022/01/29/3wFdmYbISaqD1Co.jpg" alt="img5.jpg" data-align="center">
 
 ---
 
