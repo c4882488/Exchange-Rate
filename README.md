@@ -16,7 +16,7 @@ OOP design mode, create exchange rate conversion, set the exchange rate, set the
    
    - main.py
    
-   - "ExchangeRate@202005291603.csv"
+   - ExchangeRate@202005291603.csv
 
 2. install python packget
    
