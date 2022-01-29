@@ -56,7 +56,7 @@ Enter 6 to display the exchange history
 
 #### Design Concept
 
-###### Substrate type included（System）
+##### Substrate type included（System）
 
 1. Variables
    
@@ -80,7 +80,7 @@ Enter 6 to display the exchange history
    
    - Exchange rate conversion（getExchangeRate）
 
-###### Subcategory
+##### Subcategory
 
 1. User Information（User）—Included functions
    
