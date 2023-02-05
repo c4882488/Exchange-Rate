@@ -16,7 +16,7 @@ OOP design mode, create exchange rate conversion, set the exchange rate, set the
    
    - main.py
    
-   - <a href="https://github.com/c4882488/Exchange-Rate/blob/master/ExchangeRate%40202005291603.csv">ExchangeRate@202005291603.csv</a>
+   - ExchangeRate@202005291603.csv
 
 2. install python packget
    
